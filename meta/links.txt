@@ -1,0 +1,4 @@
+Getting list of all the securities which are available for F&O
+https://www.nseindia.com/products/content/derivatives/equities/fo_underlying_home.htm
+
+
